@@ -34,17 +34,12 @@ A production-ready backend REST API built with FastAPI that provides JWT authent
 
 ### Live API
 ```text
-https://fastapi-task-manager-api-86iq.onrender.com
+https://fastapi-task-manager-api-cb58.onrender.com/
 ```
 
 ### Swagger Documentation
 ```text
-https://fastapi-task-manager-api-86iq.onrender.com/docs
-```
-
-### ReDoc Documentation
-```text
-https://fastapi-task-manager-api-86iq.onrender.com/redoc
+https://fastapi-task-manager-api-cb58.onrender.com/docs
 ```
 
 ---
